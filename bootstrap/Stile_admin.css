@@ -1,0 +1,99 @@
+ul.tab {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Float the list items side by side */
+ul.tab li {float: left;}
+
+/* Style the links inside the list items */
+ul.tab li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.tab li a:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+ul.tab li a:focus, .active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+
+/*Style data info*/ 
+.important{
+    font-weight: bold;  
+}
+/*Style title info*/ 
+h6{
+    font-size:25px;
+    font-weight:normal
+    
+}
+
+/*Style buttons*/ 
+.bottone{
+    position: relative;
+    top: 5px;
+    width:90px;
+    height:40px;
+    font-weight: bold;
+}
+
+/*Style small buttons*/ 
+.bottone-piccolo{
+    width:90px;
+    height:20px;
+    font-weight: bold;
+}
+
+/*Style data in the table's rows*/ 
+td{
+    align:center;
+    vertical-align:top;
+    padding:50px;
+    
+}
+/*Style error span*/
+.alert-error{
+    background-color:#f2dede;   
+}
+/*Style logout button*/
+#Logout{
+   position:absolute;
+   left:90%;    
+}
+/*Style login div*/
+.main{
+    position:absolute;
+    text-align: center;
+    top:20%;
+    left:40%;
+}
+/*Style td, th of user and cart pannel control*/
+.user-cart {
+	text-align: left;
+	padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+

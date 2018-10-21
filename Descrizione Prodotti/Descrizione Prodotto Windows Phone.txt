@@ -1,0 +1,20 @@
+Misure e peso
+Lunghezza: 137 mm
+Larghezza: 71 mm
+Spessore1: 9,8 mm
+Peso: 167 g
+ 
+Display
+Dimensione display: 5 ''
+Risoluzione display: Full HD (1920 x 1080)
+Colori del display: TrueColor (24 bit/16 M)
+Tecnologia di visualizzazione: AMOLED, ClearBlack Display per neri piu' profondi
+Densita' pixel: 441 ppi
+Funzioni di visualizzazione: Pulizia semplice, Profilo cromatico Lumia, Modalita' alta luminosita', Corning Gorilla Glass 3, Angolo di visualizzazione ampio, Velocita' di aggiornamento 60 Hz, Sensore d'orientamento dello schermo, Controllo automatico della luminosita' per il risparmio energetico, Migliore visualizzazione dello schermo anche sotto la luce diretta del sole
+Tecnologia touch screen: super sensibile, reattivo all'uso di unghie e guanti
+ 
+Memoria
+Memoria interna2: 32 GB
+RAM: 2 GB
+Tipo di memory card espandibile: No
+Data storage utente: Dispositivo interno, Memorizzazione su cloud OneDrive
